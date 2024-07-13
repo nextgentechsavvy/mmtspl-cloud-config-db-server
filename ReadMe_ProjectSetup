@@ -1,0 +1,15 @@
+
+		***************  mmtspl-cloud-config-server port : 8001 *******************
+SpringBoot
+SpringCloudConfigServer
+Spring Exceptions
+Spring JUnit Testing
+
+Start up the application :
+	1. Build and Run the application using Maven Build with   spring-boot:run
+	
+Url
+
+	http://localhost:8001/mmtspl-cloud-config-db-service/default
+
+	http://192.168.100.13:30801/mmtspl-cloud-config-db-service/default
